@@ -146,11 +146,17 @@ The project will begin with **project planning and research**, where DMRobinson 
 #### Content:
 1. Used the same white header with the logo on the left and a horizontal menu on the right.
 2. Every page has a dark green banner at the top for the page title.
-3. All content is placed inside white cards with rounded corners,soft shadows, and a thin left border.
+3. All content is placed inside white cards with rounded corners, soft shadows, and a thin left border.
 4. Used a CSS grid everywhere to arrange items into columns instead of stacking vertically.
 5. All action buttons like Download, Visit Site, Send Email are styled as black pill buttons.
 6. Icons are added next to section titles for visual clarity.
-7. 
+7. Put all the pictures inside fixed - height blocks with border - radius so they have rounded corners.
+8. Used object - fit: cover so images crop neatly and do not stretch.
+9. I added overflow hidden to keep images inside the cards.
+10. Changed the font from default Times New Roman to a clean san- serif like Poppins
+11. Made the titles bold and bigger, and body text smaller and grey for hierarchy.
+12. I added line-height and letter - spacing to make text easier to read.
+13. Added media queries to reduce font sizes and image heights on small screens to fit better, whether it is a mobile or not.
    
 ### Reference for Part 1
 1.  African Methodist Episcopal Church, C. Y. P. &. C. D., 2019. History of the YPD. [Online] 
